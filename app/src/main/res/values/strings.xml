@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Hospitaldir</string>
+    <string name="submit">Submit</string>
+    <string name="location">LOCATION</string>
+    <string name="are_you_in_emergency">ARE YOU IN EMERGENCY!!!</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="near_by_hospitals">Near by hospitals</string>
+    <string name="blood_bank_tracker">Blood Bank Tracker</string>
+    <string name="hospital_directory">Hospital Directory</string>
+    <string name="survey_reports">SURVEY REPORTS</string>
+    <string name="near_by_blood_banks">NEAR BY BLOOD BANKS</string>
+    <string name="annual_health_survey_ahs_education">Annual Health Survey (AHS)Education</string>
+    <string name="national_family_health_survey_nfhs">National Family Health Survey (NFHS)</string>
+    <string name="district_level_household_and_facility_survey_dlhs">District Level Household And Facility Survey (DLHS)</string>
+    <string name="search">SEARCH</string>
+    <string name="hospitals">HOSPITALS</string>
+    <string name="blood_bank">BLOOD BANK</string>
+    <string name="locationbb">LOCATION</string>
+    <string name="searchbb">Search</string>
+    <string name="blood_bank1">BLOOD BANK</string>
+    <string name="take_care">TAKE CARE</string>
+    <string name="take_careL">TAKE CARE</string>
+    <string name="hospitals1">HOSPITALS</string>
+    <string name="blood_bankL">BLOOD BANK</string>
+    <string name="annual_health_survey">ANNUAL HEALTH SURVEY</string>
+    <string name="national_family_health_survey">NATIONAL FAMILY HEALTH SURVEY</string>
+    <string name="district_level_household_and_facility">DISTRICT LEVEL HOUSEHOLD AND FACILITY</string>
+
+    <string-array name="type">
+        <item>Select</item>
+        <item>Government and Private</item>
+        <item>Government</item>
+        <item>Private</item>
+    </string-array>
+    <string-array name="locate">
+        <item>Select</item>
+        <item>Current Location</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Jharkhand</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>New Delhi</item>
+        <item>Orissa</item>
+        <item>Puducherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttarakhand</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\vishw\.android\build-cache\868acfe121dd541e09c4fbed0f19469a59df3779\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="862679f96151949a102d37b018d962961019dc65">
+        <dex dex="C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\build\intermediates\pre-dexed\debug\classes_a9a379252e9a5a30332fc8e0aa81e5b203b55857.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="vishwajeet.example.com.hospitaldir.SurveyActivity"
+    android:background="@drawable/lol">
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="247dp"
+        android:layout_height="82dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="?android:attr/colorPressedHighlight"
+        android:text="@string/district_level_household_and_facility"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/button7"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="247dp"
+        android:layout_height="82dp"
+        android:layout_marginBottom="38dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="?android:attr/colorPressedHighlight"
+        android:text="@string/national_family_health_survey"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/button8"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="247dp"
+        android:layout_height="82dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="?android:attr/colorPressedHighlight"
+        android:text="@string/annual_health_survey"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="77dp"
+        android:layout_height="68dp"
+        app:srcCompat="@drawable/splash_img"
+        tools:layout_editor_absoluteX="515dp"
+        tools:layout_editor_absoluteY="-1dp" />
+</android.support.constraint.ConstraintLayout>

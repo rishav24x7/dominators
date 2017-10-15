@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:2:1-126:12
+	package
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:7:5-98
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:7:22-95
+uses-permission#com.androidtutorialpoint.mymapsappsdirection.permission.MAPS_RECEIVE
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:8:5-108
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:8:22-105
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:18:22-78
+application
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:20:5-124:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishw\.android\build-cache\700c40ffb2da99e325b5a2aebfa46d94ed26c4a9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishw\.android\build-cache\c18a9fdc39f31bb43aeeb133ac0780b2f9b957c5\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishw\.android\build-cache\e991541dc311c12bfbb6f84ba76b2454734655ac\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishw\.android\build-cache\4b9bc2fc61be6d1c1a46b6661a640f375afae88d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishw\.android\build-cache\2eb1c9ef57a41811c6f823c4a18c5415ef3593d3\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\vishw\.android\build-cache\003d19faf4846261e1c8c7f60b3cf515b4f701ad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishw\.android\build-cache\87c2b74ed590e1bcf923c583ba646ea24168654a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishw\.android\build-cache\699fdd521bd35d84f46a2989dae847733f648e13\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishw\.android\build-cache\f2242df5906ae8e6cb9f505d834ded351bcfea00\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\vishw\.android\build-cache\531d7c68bebf283bb068401178ded59f3e0174c3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishw\.android\build-cache\8faf4f38651a8f9b377e653f4a82aba72646bb87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishw\.android\build-cache\9e421f9e0d40c6132a734cac289b9b59ac051c3d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishw\.android\build-cache\767e5ee2b62b560efabce305d1117c49def230f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishw\.android\build-cache\108b9d2067547ceb44733cea40da6968b839d82c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishw\.android\build-cache\57ebb95652c5c4330d26cab3c0f2ccb893b471a8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishw\.android\build-cache\99caca6fa615af59a467f9730b4f0e012d262f50\output\AndroidManifest.xml:29:5-20
+	android:screenOrientation
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:25:9-45
+	android:label
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:23:9-34
+	android:supportsRtl
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:26:9-35
+	android:roundIcon
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:24:9-54
+	android:allowBackup
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:27:9-40
+activity#vishwajeet.example.com.hospitaldir.Splashscreen
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:34:27-74
+activity#vishwajeet.example.com.hospitaldir.MainActivity
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:37:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:38:13-42:29
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:41:27-73
+activity#vishwajeet.example.com.hospitaldir.MainActivity0
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:44:19-48
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:59:9-61:55
+	android:value
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:61:13-52
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:60:13-58
+activity#vishwajeet.example.com.hospitaldir.MapsActivity
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:63:9-71:20
+	android:label
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:65:13-54
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:64:13-41
+activity#vishwajeet.example.com.hospitaldir.Mapactibb
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:72:9-80:20
+	android:label
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:74:13-56
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:73:13-38
+activity#vishwajeet.example.com.hospitaldir.FirstActivity
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:81:9-87:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:81:19-48
+activity#vishwajeet.example.com.hospitaldir.SurveyActivity
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:88:9-94:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:88:19-49
+activity#vishwajeet.example.com.hospitaldir.Bloodbank2
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:95:9-102:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:95:19-45
+activity#vishwajeet.example.com.hospitaldir.DLHF
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:103:9-109:16
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:103:19-39
+activity#vishwajeet.example.com.hospitaldir.NFHS
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:110:9-116:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:110:19-39
+activity#vishwajeet.example.com.hospitaldir.AHS
+ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:117:9-123:20
+	android:name
+		ADDED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml:117:19-38
+uses-sdk
+INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.2] C:\Users\vishw\.android\build-cache\868acfe121dd541e09c4fbed0f19469a59df3779\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vishw\.android\build-cache\700c40ffb2da99e325b5a2aebfa46d94ed26c4a9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\vishw\.android\build-cache\c18a9fdc39f31bb43aeeb133ac0780b2f9b957c5\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishw\.android\build-cache\e991541dc311c12bfbb6f84ba76b2454734655ac\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\vishw\.android\build-cache\4b9bc2fc61be6d1c1a46b6661a640f375afae88d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishw\.android\build-cache\2eb1c9ef57a41811c6f823c4a18c5415ef3593d3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\vishw\.android\build-cache\003d19faf4846261e1c8c7f60b3cf515b4f701ad\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishw\.android\build-cache\87c2b74ed590e1bcf923c583ba646ea24168654a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishw\.android\build-cache\699fdd521bd35d84f46a2989dae847733f648e13\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishw\.android\build-cache\f2242df5906ae8e6cb9f505d834ded351bcfea00\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishw\.android\build-cache\7375672c4392e17e35ea7b62f195a7ac387d9a6f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\vishw\.android\build-cache\531d7c68bebf283bb068401178ded59f3e0174c3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishw\.android\build-cache\8faf4f38651a8f9b377e653f4a82aba72646bb87\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishw\.android\build-cache\9e421f9e0d40c6132a734cac289b9b59ac051c3d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishw\.android\build-cache\767e5ee2b62b560efabce305d1117c49def230f0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishw\.android\build-cache\108b9d2067547ceb44733cea40da6968b839d82c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishw\.android\build-cache\57ebb95652c5c4330d26cab3c0f2ccb893b471a8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishw\.android\build-cache\99caca6fa615af59a467f9730b4f0e012d262f50\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\vishw\.android\build-cache\003d19faf4846261e1c8c7f60b3cf515b4f701ad\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vishw\Desktop\New folder (2)\Hospitaldir\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\vishw\.android\build-cache\895ac65c1dfbb7aa5171ac700cf55ba0da70b29a\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishw\.android\build-cache\e991541dc311c12bfbb6f84ba76b2454734655ac\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishw\.android\build-cache\e991541dc311c12bfbb6f84ba76b2454734655ac\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishw\.android\build-cache\e991541dc311c12bfbb6f84ba76b2454734655ac\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\vishw\.android\build-cache\e991541dc311c12bfbb6f84ba76b2454734655ac\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishw\.android\build-cache\2eb1c9ef57a41811c6f823c4a18c5415ef3593d3\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishw\.android\build-cache\2eb1c9ef57a41811c6f823c4a18c5415ef3593d3\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\vishw\.android\build-cache\2eb1c9ef57a41811c6f823c4a18c5415ef3593d3\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\vishw\.android\build-cache\003d19faf4846261e1c8c7f60b3cf515b4f701ad\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vishw\.android\build-cache\87c2b74ed590e1bcf923c583ba646ea24168654a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vishw\.android\build-cache\699fdd521bd35d84f46a2989dae847733f648e13\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vishw\.android\build-cache\f2242df5906ae8e6cb9f505d834ded351bcfea00\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vishw\.android\build-cache\7375672c4392e17e35ea7b62f195a7ac387d9a6f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\vishw\.android\build-cache\531d7c68bebf283bb068401178ded59f3e0174c3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vishw\.android\build-cache\8faf4f38651a8f9b377e653f4a82aba72646bb87\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vishw\.android\build-cache\9e421f9e0d40c6132a734cac289b9b59ac051c3d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vishw\.android\build-cache\767e5ee2b62b560efabce305d1117c49def230f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vishw\.android\build-cache\108b9d2067547ceb44733cea40da6968b839d82c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vishw\.android\build-cache\57ebb95652c5c4330d26cab3c0f2ccb893b471a8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vishw\.android\build-cache\99caca6fa615af59a467f9730b4f0e012d262f50\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\vishw\.android\build-cache\003d19faf4846261e1c8c7f60b3cf515b4f701ad\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\vishw\.android\build-cache\003d19faf4846261e1c8c7f60b3cf515b4f701ad\output\AndroidManifest.xml:26:9-47

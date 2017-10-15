@@ -1,0 +1,554 @@
+[
+    {
+        "outputFile": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\.android\\build-cache\\f468d9695d5e16db2e380d54bd2f1e31a08d478f\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\Downloads\\android-samples-master\\android-samples-master\\tutorials\\Hospitaldir\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\rohit\\Desktop\\Hospitaldir\\C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\vishw\\Desktop\\New folder (2)\\Hospitaldir\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\vishw\\Desktop\\Hospitaldir\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 83,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 83,
+                        "endOffset": 204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 83,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 83,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endColumn": 95,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 95,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 101,
+                    "endOffset": 486
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 101,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 491,
+                    "endColumn": 101,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 101,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 93,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "C:\\Users\\vishw\\.android\\build-cache\\87c2b74ed590e1bcf923c583ba646ea24168654a\\output\\res\\values-night-v8\\values-night-v8.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 93,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]
